@@ -4,7 +4,7 @@
     "description": "Config files for eslint and prettier",
     "main": "index.js",
     "scripts": {
-        "setup_config": "npx install-peerdeps --dev eslint-config-airbnb-base && npm i -g eslint",
+        "setup_config": "npm install && npx install-peerdeps --dev eslint-config-airbnb-base && npm i -g eslint",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "jejikeh",
