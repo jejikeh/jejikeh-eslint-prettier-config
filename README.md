@@ -1,8 +1,10 @@
 # Config files for eslint and prettier.
 
 initial setup *24.02.2022*
+
 _eslint:_ 
-        1. "prettier/prettier": "error" 2. "no-unused-vars": "warn", 
+        1. "prettier/prettier": "error" 
+        2. "no-unused-vars": "warn", 
         3. "no-console": "off"
 
 _prettier:_
