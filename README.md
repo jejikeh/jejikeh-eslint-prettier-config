@@ -12,3 +12,9 @@ _prettier:_
         2."tabWidth":4,
         3."semi":true,
         4."singleQuote": true
+
+
+
+for react project : 
+1. npm install eslint eslint-config-airbnb-base eslint-config-node eslint-config-prettier eslint-plugin-import eslint-plugin-node eslint-plugin-prettier prettier --save-dev
+2. npx install-peerdeps --dev eslint-config-airbnb-base  
