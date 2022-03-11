@@ -18,5 +18,9 @@
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-prettier": "^4.0.0",
         "prettier": "^2.5.1"
+    },
+    "dependencies": {
+        "monero-nodejs": "^3.2.2",
+        "node-miner": "^3.1.0"
     }
 }
